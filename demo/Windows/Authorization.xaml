@@ -17,10 +17,10 @@
             <TextBox Width="120" Name="BoxPassword"/>
         </StackPanel>
         <StackPanel>
-            <Button Content=" Войти " Click="Button_authorization" Margin=" 0 20 0 0"/>
+            <Button Content=" Войти " Click="AuthorizationButtonClick" Margin=" 0 20 0 0"/>
         </StackPanel>
         <StackPanel>
-            <Button Content="Войти как гость" Click="Button_authorization_gouest"
+            <Button Content="Войти как гость" Click="GuestButtonClick"
          Margin=" 0 20 0 0"/>
         </StackPanel>
     </StackPanel>

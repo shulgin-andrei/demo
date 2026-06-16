@@ -473,4 +473,4 @@ C:\Users\Hahke\Desktop\demo_full_try_first\demka\demo\obj\Debug\net8.0-windows\r
 C:\Users\Hahke\Desktop\demo_full_try_first\demka\demo\obj\Debug\net8.0-windows\demo.pdb
 C:\Users\Hahke\Desktop\demo_full_try_first\demka\demo\obj\Debug\net8.0-windows\demo.genruntimeconfig.cache
 C:\Users\Hahke\Desktop\demo_full_try_first\demka\demo\obj\Debug\net8.0-windows\ref\demo.dll
-C:\Users\Hahke\Desktop\demo_full_try_first\demka\demo\obj\Debug\net8.0-windows\demo_Content.g.cs
+C:\Users\Hahke\Desktop\demo_full_try_first\demka\demo\obj\Debug\net8.0-windows\demo.sourcelink.json

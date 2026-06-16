@@ -3,44 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\requestwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\requestwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\usercontrollers\\itemproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\usercontrollers\\itemproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\usercontrollers\\itemproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\usercontrollers\\itemproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\addrequest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\addrequest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\editrequest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\editrequest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\requestwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\requestwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\requestwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\requestwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\addrequest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\addrequest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,124 +74,209 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\App.xaml",
-              "RelativeDocumentMoniker": "demo\\App.xaml",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\App.xaml",
-              "RelativeToolTip": "demo\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T14:09:37.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.xaml",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml",
-              "RelativeDocumentMoniker": "demo\\Windows\\Main.xaml",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml",
-              "RelativeToolTip": "demo\\Windows\\Main.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T13:54:22.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Authorization.xaml",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml",
-              "RelativeDocumentMoniker": "demo\\Windows\\Authorization.xaml",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml",
-              "RelativeToolTip": "demo\\Windows\\Authorization.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T13:52:31.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RequestWindows.xaml",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml",
-              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\RequestWindows.xaml",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml",
-              "RelativeToolTip": "demo\\Windows\\RequestWin\\RequestWindows.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T13:59:38.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddProduct.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml.cs",
-              "RelativeDocumentMoniker": "demo\\Windows\\Products\\AddProduct.xaml.cs",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml.cs",
-              "RelativeToolTip": "demo\\Windows\\Products\\AddProduct.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T08:36:13.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ItemProduct.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml.cs",
-              "RelativeDocumentMoniker": "demo\\UserControllers\\ItemProduct.xaml.cs",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml.cs",
-              "RelativeToolTip": "demo\\UserControllers\\ItemProduct.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T08:28:37.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ItemProduct.xaml",
               "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml",
               "RelativeDocumentMoniker": "demo\\UserControllers\\ItemProduct.xaml",
               "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml",
               "RelativeToolTip": "demo\\UserControllers\\ItemProduct.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T08:28:33.455Z"
+              "WhenOpened": "2026-06-16T16:46:41.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "EditProduct.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml.cs",
               "RelativeDocumentMoniker": "demo\\Windows\\Products\\EditProduct.xaml.cs",
               "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml.cs",
               "RelativeToolTip": "demo\\Windows\\Products\\EditProduct.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T08:22:48.749Z"
+              "WhenOpened": "2026-06-16T16:46:00.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditProduct.xaml",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml",
-              "RelativeDocumentMoniker": "demo\\Windows\\Products\\EditProduct.xaml",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml",
-              "RelativeToolTip": "demo\\Windows\\Products\\EditProduct.xaml",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:45:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\Products\\AddProduct.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml",
+              "RelativeToolTip": "demo\\Windows\\Products\\AddProduct.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T08:22:45.53Z"
+              "WhenOpened": "2026-06-16T16:45:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestWindows.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\RequestWindows.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\RequestWin\\RequestWindows.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:43:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\Authorization.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:43:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml",
+              "RelativeToolTip": "demo\\Windows\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T16:43:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\Main.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\Main.xaml.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAADwv8EAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:38:51.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditRequest.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\EditRequest.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\EditRequest.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\EditRequest.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\RequestWin\\EditRequest.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:02:51.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "demo\\Models\\PickupPoint.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\PickupPoint.cs",
+              "RelativeToolTip": "demo\\Models\\PickupPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:55:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\Main.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml",
+              "RelativeToolTip": "demo\\Windows\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T16:38:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "demo\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "demo\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:56:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "demo\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\Order.cs",
+              "RelativeToolTip": "demo\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:56:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestWindows.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "RelativeToolTip": "demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T15:56:05.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DemoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\DemoContext.cs",
-              "RelativeDocumentMoniker": "demo\\Models\\DemoContext.cs",
-              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\DemoContext.cs",
-              "RelativeToolTip": "demo\\Models\\DemoContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwBEAAABCAAAAAAAAAA==",
+              "Title": "AddRequest.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\AddRequest.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\AddRequest.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\AddRequest.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\RequestWin\\AddRequest.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T08:17:48.072Z"
+              "WhenOpened": "2026-06-16T15:47:05.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRequest.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\AddRequest.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\AddRequest.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\AddRequest.xaml",
+              "RelativeToolTip": "demo\\Windows\\RequestWin\\AddRequest.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T15:46:39.022Z",
+              "EditorCaption": ""
             }
           ]
         }

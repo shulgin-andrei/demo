@@ -26,7 +26,7 @@ namespace demo.Windows.RequestWin
             BoxStatus.ItemsSource = context.OrderStatuses.ToList();
         }
 
-        private void Button_add(object sender, RoutedEventArgs e)
+        private void AddButtonClick(object sender, RoutedEventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(BoxDateDelivery.Text) &&
                 !string.IsNullOrWhiteSpace(BoxDateOrder.Text) &&
@@ -35,15 +35,18 @@ namespace demo.Windows.RequestWin
             {
                 try
                 {
-                    //тут идёт присвоение id как как в таблице я забыл установить автоикремент для поля ID,
-                    //поэтому я делаю это руками (так делать не надо)
+                    PickupPoint pp = context.PickupPoints.FirstOrDefault(q => q.Name == BoxDelivary.Text);
+                    if (pp == null) {
+                        MessageBox.Show("Не найден существующий адресс"); 
+                    }
+                    // id не тема
                     Order order = new Order()
                     {
                         Id = context.Orders.Max(q => q.Id) + 1,//Так делать если автоикремент в бд не сделан
                         OrderDate = DateTime.Parse(BoxDateOrder.Text),
                         DeliveryDate = DateTime.Parse(BoxDateDelivery.Text),
                         Code = int.Parse(BoxArc.Text),
-                        PickupPoint = context.PickupPoints.FirstOrDefault(q => q.Name == BoxDelivary.Text),
+                        PickupPoint = pp,
                         Status = BoxStatus.SelectedItem as OrderStatus
                     };
                     context.Orders.Add(order);
@@ -57,7 +60,7 @@ namespace demo.Windows.RequestWin
             }
         }
 
-        private void Button_exit(object sender, RoutedEventArgs e)
+        private void ExitButtonClick(object sender, RoutedEventArgs e)
         {
             DialogResult = false;
         }

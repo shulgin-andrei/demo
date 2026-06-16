@@ -60,7 +60,7 @@ namespace demo.Windows
             }
         }
 
-        private void Button_exit_user(object sender, RoutedEventArgs e)
+        private void ExitButtonClick(object sender, RoutedEventArgs e)
         {
             Authorization authorization = new Authorization();
             authorization.Show();
@@ -80,7 +80,7 @@ namespace demo.Windows
             }
         }
 
-        private void Button_add_product(object sender, RoutedEventArgs e)
+        private void AddButtonClick(object sender, RoutedEventArgs e)
         {
             AddProduct add = new AddProduct();
             if (add.ShowDialog() == true)
@@ -89,7 +89,7 @@ namespace demo.Windows
             }
         }
 
-        private void Button_request(object sender, RoutedEventArgs e)
+        private void ButtonRequest(object sender, RoutedEventArgs e)
         {
             RequestWindows request = new RequestWindows(currentUser);
             request.ShowDialog();
@@ -166,7 +166,7 @@ namespace demo.Windows
             DrawProductItem(products);
         }
 
-        private void Buutton_delite_product(object sender, RoutedEventArgs e)
+        private void DeleteButtonClick(object sender, RoutedEventArgs e)
         {
             Product prod = (Product)(BoxProduct.SelectedItem as ItemProduct).DataContext;
             if (prod != null)
@@ -182,6 +182,15 @@ namespace demo.Windows
                 context.SaveChanges();
                 products = context.Products.ToList();
                 DrawProductItem(products);
+                // не робит
+                // плюс каскадное удаление на поле в sql
+//                ALTER TABLE dbo.OrdersProduct$ 
+                //DROP CONSTRAINT FK_OrdersProduct$_Products$;
+
+//                ALTER TABLE dbo.OrdersProduct$ 
+                //ADD CONSTRAINT FK_OrdersProduct$_Products$
+                //FOREIGN KEY(ProductId) REFERENCES dbo.Products$(Id)
+                //ON DELETE CASCADE;
                 if (prod.ImagePath != null)
                 {
                     File.Delete(Path.Combine(projPath, "Images", prod.ImagePath));

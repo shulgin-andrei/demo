@@ -69,17 +69,17 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                 <Button Content="  Добавить продукт  "
-                    Click="ButtonAddProduct"
+                    Click="AddButtonClick"
                     Margin="5"/>
                 <Button Content="Отмена"
-                    Click="ButtonExit"
+                    Click="ExitButtonClick"
                     Margin="5"/>
             </StackPanel>
         </StackPanel>
         <StackPanel>
             <Image Name="BoxImage" Height="200" Width="200"/>
             <Button Content="добавить изображение" Margin="5"
-                    Click="ButtonLoadImage"/>
+                    Click="LoadImageButton"/>
         </StackPanel>
         <!--<StackPanel Orientation="Horizontal">
             <Button Content="Добавить" Width="80" Click="Button_add" Margin="5"/>

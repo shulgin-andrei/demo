@@ -56,7 +56,7 @@ namespace demo.Windows.RequestWin
             }
         }
 
-        private void Button_add_reques(object sender, RoutedEventArgs e)
+        private void AddButtonClick(object sender, RoutedEventArgs e)
         {
             AddRequest add = new AddRequest();
             if (add.ShowDialog() == true)
@@ -65,7 +65,7 @@ namespace demo.Windows.RequestWin
             }
         }
 
-        private void Buutton_delite_reques(object sender, RoutedEventArgs e)
+        private void DeleteButtonClick(object sender, RoutedEventArgs e)
         {
             Order prod = BoxOrder.SelectedItem as Order;
             if (prod != null)
@@ -87,7 +87,7 @@ namespace demo.Windows.RequestWin
             }
         }
 
-        private void Button_exit(object sender, RoutedEventArgs e)
+        private void ExitButtonClick(object sender, RoutedEventArgs e)
         {
             DialogResult = false;
         }

@@ -26,7 +26,7 @@ namespace demo.Windows.Products
             BoxSupplier.ItemsSource = context.Suppliers.ToList();
         }
 
-        private void ButtonAddProduct(object sender, RoutedEventArgs e)
+        private void AddButtonClick(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrWhiteSpace(BoxDescription.Text) ||
                 string.IsNullOrWhiteSpace(BoxDiscount.Text) ||
@@ -73,12 +73,12 @@ namespace demo.Windows.Products
             }
         }
 
-        private void ButtonExit(object sender, RoutedEventArgs e)
+        private void ExitButtonClick(object sender, RoutedEventArgs e)
         {
             DialogResult = false;
         }
 
-        private void ButtonLoadImage(object sender, RoutedEventArgs e)
+        private void LoadImageButton(object sender, RoutedEventArgs e)
         {
             OpenFileDialog openFile = new OpenFileDialog();
 

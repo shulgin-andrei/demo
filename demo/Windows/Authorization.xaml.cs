@@ -13,7 +13,7 @@ namespace demo.Windows
             context = new DemoContext();
         }
 
-        private void Button_authorization(object sender, RoutedEventArgs e)
+        private void AuthorizationButtonClick(object sender, RoutedEventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(BoxLogin.Text) && !string.IsNullOrWhiteSpace(BoxPassword.Text))
             {
@@ -36,7 +36,7 @@ namespace demo.Windows
             }
         }
 
-        private void Button_authorization_gouest(object sender, RoutedEventArgs e)
+        private void GuestButtonClick(object sender, RoutedEventArgs e)
         {
             Main main = new Main();
             main.Show();

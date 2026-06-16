@@ -29,7 +29,7 @@
                          Margin="4">
                 <TextBox Name="BoxDelivary" 
                          Width="120"
-                         Text="{Binding PickupPoint.Adress}"/>
+                         Text="{Binding PickupPoint.Name}"/>
                 <TextBlock Text="Пункс выдачи" 
                          Margin="5 0 0 0"/>
             </StackPanel>
@@ -51,8 +51,8 @@
             </StackPanel>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <Button Content="Сохранить" Width="80" Click="Button_save" Margin="5"/>
-            <Button Content="Отмена" Width="80" Click="Button_exit" Margin="5"/>
+            <Button Content="Сохранить" Width="80" Click="SaveButtonClick" Margin="5"/>
+            <Button Content="Отмена" Width="80" Click="ExitButtonClick" Margin="5"/>
         </StackPanel>
     </StackPanel>
 </Window>

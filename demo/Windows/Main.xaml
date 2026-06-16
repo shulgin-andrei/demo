@@ -9,7 +9,7 @@
         Title="Приложение" Height="850" Width="1300" ResizeMode="NoResize">
     <DockPanel>
         <DockPanel DockPanel.Dock="Top" Margin="5">
-            <Button FontSize="15" Content=" Выход " Click="Button_exit_user" DockPanel.Dock="Left"/>
+            <Button FontSize="15" Content=" Выход " Click="ExitButtonClick" DockPanel.Dock="Left"/>
             <TextBlock FontSize="15" DockPanel.Dock="Right">
             <Run Text="Добро пожаловать: "/>
             <Run Name="BoxUserName"/>
@@ -20,10 +20,10 @@
         </DockPanel>
         <StackPanel Name="PanelBottomButton" Orientation="Horizontal" DockPanel.Dock="Bottom">
             <StackPanel  Name="PanelBottomAdmin" Orientation="Horizontal">
-                <Button FontSize="15" Content="Добавить" Width="80" Margin="5" Click="Button_add_product"/>
-                <Button FontSize="15" Content="Удалить" Width="80" Margin="5" Click="Buutton_delite_product"/>
+                <Button FontSize="15" Content="Добавить" Width="80" Margin="5" Click="AddButtonClick"/>
+                <Button FontSize="15" Content="Удалить" Width="80" Margin="5" Click="DeleteButtonClick"/>
             </StackPanel>
-            <Button FontSize="15" Name="PanelRequestBottom" Content="Заявки" Width="80" Margin="5" Click="Button_request"/>
+            <Button FontSize="15" Name="PanelRequestBottom" Content="Заявки" Width="80" Margin="5" Click="ButtonRequest"/>
         </StackPanel>
         <StackPanel HorizontalAlignment="Center">
             <StackPanel Orientation="Horizontal" Margin="5" Name="PanelFind">

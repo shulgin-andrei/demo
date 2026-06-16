@@ -9,8 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="bin\Debug\net8.0-windows\Images\Icon.png" />
-    <Resource Include="bin\Debug\net8.0-windows\Images\Icon_.ico" />
+    <Compile Remove="bin\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <None Remove="bin\**" />
+    <Page Remove="bin\**" />
   </ItemGroup>
 
   <ItemGroup>

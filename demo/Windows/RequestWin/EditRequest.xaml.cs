@@ -32,13 +32,19 @@ namespace demo.Windows.RequestWin
 
         }
 
-        private void Button_save(object sender, RoutedEventArgs e)
+        private void SaveButtonClick(object sender, RoutedEventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(BoxDateDelivery.Text) &&
                 !string.IsNullOrWhiteSpace(BoxDateOrder.Text) &&
                 !string.IsNullOrWhiteSpace(BoxArc.Text) &&
                 !string.IsNullOrWhiteSpace(BoxDelivary.Text))
             {
+                PickupPoint pp = context.PickupPoints.FirstOrDefault(q => q.Name == BoxDelivary.Text);
+                if (pp == null)
+                {
+                    MessageBox.Show("Не найден существующий адресс");
+                }
+
                 try
                 {
 
@@ -60,7 +66,7 @@ namespace demo.Windows.RequestWin
             }
         }
 
-        private void Button_exit(object sender, RoutedEventArgs e)
+        private void ExitButtonClick(object sender, RoutedEventArgs e)
         {
             DialogResult = false;
         }

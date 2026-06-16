@@ -9,14 +9,14 @@
       Title="Заявки" Height="600" Width="830">
     <DockPanel>
         <DockPanel DockPanel.Dock="Top" Margin="5">
-            <Button FontSize="15" Content=" Назад " Click="Button_exit" DockPanel.Dock="Left"/>
+            <Button FontSize="15" Content=" Назад " Click="ExitButtonClick" DockPanel.Dock="Left"/>
             <StackPanel>
 
             </StackPanel>
         </DockPanel>
         <StackPanel Name="PanelBottomButton" Orientation="Horizontal" DockPanel.Dock="Bottom">
-            <Button FontSize="15" Content="Добавить" Width="80" Margin="5" Click="Button_add_reques"/>
-            <Button FontSize="15" Content="Удалить" Width="80" Margin="5" Click="Buutton_delite_reques"/>
+            <Button FontSize="15" Content="Добавить" Width="80" Margin="5" Click="AddButtonClick"/>
+            <Button FontSize="15" Content="Удалить" Width="80" Margin="5" Click="DeleteButtonClick"/>
         </StackPanel>
         <StackPanel>
             <ListBox Name="BoxOrder"
@@ -39,8 +39,8 @@
                                 Width="640">
                                 <StackPanel>
                                     <TextBlock Text="{Binding Code}" FontWeight="Bold"/>
-                                    <TextBlock Text="{Binding Status.Status1}"/>
-                                    <TextBlock Text="{Binding PickupPoint.Adress}" />
+                                    <TextBlock Text="{Binding Status}"/>
+                                    <TextBlock Text="{Binding PickupPoint}" />
                                     <TextBlock Text="{Binding OrderDate, StringFormat='dd.MM.yyyy'}"/>
                                 </StackPanel>
                             </Border>
