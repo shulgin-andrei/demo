@@ -1,0 +1,27 @@
+﻿<Window x:Class="demo.Windows.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demo.Windows"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="300" Width="400" ResizeMode="NoResize">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0 0 0 10">
+            <TextBlock HorizontalAlignment="Center" Text="Логин" Margin="0 0 10 0"/>
+            <TextBox Width="120" Name="BoxLogin"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock HorizontalAlignment="Center" Text="Пароль" Margin="0 0 10 0"/>
+            <TextBox Width="120" Name="BoxPassword"/>
+        </StackPanel>
+        <StackPanel>
+            <Button Content=" Войти " Click="Button_authorization" Margin=" 0 20 0 0"/>
+        </StackPanel>
+        <StackPanel>
+            <Button Content="Войти как гость" Click="Button_authorization_gouest"
+         Margin=" 0 20 0 0"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\demo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\demo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\requestwin\\requestwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\requestwin\\requestwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\models\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\windows\\products\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\windows\\products\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\usercontrollers\\itemproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\usercontrollers\\itemproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|c:\\users\\hahke\\desktop\\demo_full_try_first\\demka\\demo\\usercontrollers\\itemproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F72474-7D39-43E6-912D-64917BB12B6B}|demo\\demo.csproj|solutionrelative:demo\\usercontrollers\\itemproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAKwCAAAAAAAAAAAcwMYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-16T14:16:56.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\demo.csproj",
+              "RelativeDocumentMoniker": "demo\\demo.csproj",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\demo.csproj",
+              "RelativeToolTip": "demo\\demo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T14:11:46.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\App.xaml",
+              "RelativeDocumentMoniker": "demo\\App.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\App.xaml",
+              "RelativeToolTip": "demo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T14:09:37.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\Main.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Main.xaml",
+              "RelativeToolTip": "demo\\Windows\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T13:54:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Authorization.xaml",
+              "RelativeToolTip": "demo\\Windows\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T13:52:31.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestWindows.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "RelativeToolTip": "demo\\Windows\\RequestWin\\RequestWindows.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T13:59:38.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\Products\\AddProduct.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:36:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\UserControllers\\ItemProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml.cs",
+              "RelativeToolTip": "demo\\UserControllers\\ItemProduct.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:28:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml",
+              "RelativeDocumentMoniker": "demo\\UserControllers\\ItemProduct.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\UserControllers\\ItemProduct.xaml",
+              "RelativeToolTip": "demo\\UserControllers\\ItemProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T08:28:33.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Windows\\Products\\EditProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml.cs",
+              "RelativeToolTip": "demo\\Windows\\Products\\EditProduct.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:22:48.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml",
+              "RelativeDocumentMoniker": "demo\\Windows\\Products\\EditProduct.xaml",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Windows\\Products\\EditProduct.xaml",
+              "RelativeToolTip": "demo\\Windows\\Products\\EditProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T08:22:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\DemoContext.cs",
+              "RelativeDocumentMoniker": "demo\\Models\\DemoContext.cs",
+              "ToolTip": "C:\\Users\\Hahke\\Desktop\\demo_full_try_first\\demka\\demo\\Models\\DemoContext.cs",
+              "RelativeToolTip": "demo\\Models\\DemoContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:17:48.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
